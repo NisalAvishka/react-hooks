@@ -1,10 +1,11 @@
-import UseCallbackComponent from "./components/useCallbackComponent";
+import UseReducerComponent from "./components/UseReducerComponent";
+
 
 
 function App() {
   return (
     <div>
-     <UseCallbackComponent/>
+     <UseReducerComponent/>
     </div>
   );
 }

@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react"
 
 
-export const useRefComponent2 = () => {
+export const UseRefComponent2 = () => {
     const inputRef = useRef<HTMLInputElement |null>(null);
 
     useEffect(() => {

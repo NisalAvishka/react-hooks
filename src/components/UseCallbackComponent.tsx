@@ -1,5 +1,6 @@
 import { useCallback, useState } from "react";
-import Search from "./search";
+import Search from "./Search";
+
 
 const allUsers = ["Alice", "Bob", "Charlie", "David", "Eve"];
 
